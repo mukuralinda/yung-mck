@@ -17,7 +17,8 @@
     "plop": "plop"
   },
   "dependencies": {
-    "gatsby": "^5.13.3",
+    "dotenv": "^16.4.5",
+    "gatsby": "^2.13.57",
     "gatsby-adapter-netlify": "^1.1.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
